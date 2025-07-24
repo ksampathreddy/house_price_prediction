@@ -1,4 +1,4 @@
-flask
+streamlit==1.28.0
 scikit-learn
 pandas
 numpy
